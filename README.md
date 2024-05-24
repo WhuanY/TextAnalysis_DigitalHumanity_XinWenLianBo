@@ -77,10 +77,15 @@ The analysis would involve time series analysis of text data, possibly using tec
 
 [1] Thanks for the original author for the WeChat Passage [哪个城市是中央眼中的心头爱？基于新闻联播文本的大数据分析](https://mp.weixin.qq.com/s/EvhdkXQBHZVYenYg1U74YQ) That makes the process for data collection easier and makes it possible for more exciting analysis.
 
-[2] Thanks for Jindi Mo and Xuan Li for the explanation job for the code. Their contribution makes the project with potential impact.
+[2] Thanks for `Jindi Mo` and `Xuan Li` for the explanation job for the code and case-making. Their contribution makes the project with potential impact.
 
 ## License and Additional Clause
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE](LICENSE) file for details.
 
 Use of this project in any form must also comply with the applicable laws and regulations of the People's Republic of China.
+
+
+Contact the creator for this project at:
+rucerwilliam@ruc.edu.cn
+wuyuhuan_walter@163.com
