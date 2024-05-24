@@ -1,5 +1,7 @@
 # Text Analysis for digital humanity: XinWenLianBo
 
+[TOC]
+
 ## Overview
 
 The project aims to uncover insights into Chinese society's changes over time by analyzing the frequency of geographic names mentioned in the news program over a decade. This analysis seeks to interpret the importance of these cities in national politics, economics, or societal aspects.
