@@ -1,17 +1,17 @@
 # Text Analysis for digital humanity: XinWenLianBo
 
-1. [Overview](##overview)
-2. [Objective](##objective)
-3. [Project File Structure](##project-file-structure)
-4. [Initialization](##initialization)
-5. [Understanding the Code](##understanding-the-code)
-    - [Data Collection](###data-collection)
-    - [Data Preprocessing](###data-preprocessing)
-    - [Analysis](###analysis)
-6. [What Can Be Done Further](##what-can-be-done-further)
-7. [Acknowledgement](##acknowledgement)
-8. [License and Additional Clause](##license-and-additional-clause)
-9. [Contact the Creator of the Project](##contact-the-creator-of-the-project)
+1. [Overview](#overview)
+2. [Objective](#objective)
+3. [Project File Structure](#project-file-structure)
+4. [Initialization](#initialization)
+5. [Understanding the Code](#understanding-the-code)
+    - [Data Collection](#data-collection)
+    - [Data Preprocessing](#data-preprocessing)
+    - [Analysis](#analysis)
+6. [What Can Be Done Further](#what-can-be-done-further)
+7. [Acknowledgement](#acknowledgement)
+8. [License and Additional Clause](#license-and-additional-clause)
+9. [Contact the Creator of the Project](#contact-the-creator-of-the-project)
 
 ---
 
