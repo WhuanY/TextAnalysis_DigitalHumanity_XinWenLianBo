@@ -57,7 +57,9 @@ DigitalHumanity_XinWenLianBo/
 ├── requirements.txt        # Project dependencies
 └── .gitignore              # Specifies intentionally untracked files to ignore
 ```
-Note: Due to limitation of each time upload number. For .csv files in `data/`, I have posted some documents on: [data](https://drive.google.com/drive/folders/1yqp-BGZpv-0oSjv08Ity-oIsnPY0fp-A)
+**Note**
+
+Due to limitation of each time upload number. For .csv files in `data/`, I have posted some documents on: [data](https://drive.google.com/drive/folders/1yqp-BGZpv-0oSjv08Ity-oIsnPY0fp-A)
 
 Also the `viz/` document is stored in [viz](https://drive.google.com/drive/folders/1ktmwnB9xgByLnnzFBIqaOCBK-VDBKiG2).Some unseen files on git repo can be found here.
 
