@@ -79,7 +79,7 @@ We welcome any further contribution.
 
 [1] Thanks for the original author for the WeChat Passage [哪个城市是中央眼中的心头爱？基于新闻联播文本的大数据分析](https://mp.weixin.qq.com/s/EvhdkXQBHZVYenYg1U74YQ) That makes the process for data collection easier and makes it possible for more exciting analysis.
 
-[2] Thanks for `Jindi Mo` and `Xuan Li` for the explanation job for the code and case-making. Their contribution makes the project with potential impact.
+[2] Thanks for `Jindi Mo` and `Xuan Li` for the explanation job for the code and case-making. Their contribution makes the project to have real impact to related researchers in [digital humanity](https://en.wikipedia.org/wiki/Digital_humanities).
 
 ## License and Additional Clause
 
@@ -89,10 +89,6 @@ Use of this project in any form must also comply with the applicable laws and re
 
 
 ## Contact the Creator of the Project
-Email to:
-
-rucerwilliam@ruc.edu.cn
-
-or
-
-wuyuhuan_walter@163.com
+- Email
+  - rucerwilliam@ruc.edu.cn
+  - wuyuhuan_walter@163.com
