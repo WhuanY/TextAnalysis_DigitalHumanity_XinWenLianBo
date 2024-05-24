@@ -33,9 +33,7 @@ DigitalHumanity_XinWenLianBo/
 ├── LICENSE                 # The license file
 │
 ├── src/                    # Source files
-│   ├── web_crawler_.py             # Main application script
-│   ├── module1.py          # Sample module
-│   └── module2.py          # Another module
+│   └── web_crawler_.py             # Main application script
 │
 ├── viz/                    # Files for visualizaiton effects
 │   ├── *_news.html         # TF-IDF Results
